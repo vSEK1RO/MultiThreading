@@ -29,7 +29,7 @@ git clone https://github.com/vSEK1RO/MultiThreading
 ## [Bank](https://github.com/vSEK1RO/MultiThreading/blob/main/src/main/kotlin/Bank.kt)
 
 To start working with a `Bank`, create a bank with its title in the constructor and register a client by passing `ClientInfo`
-```c
+```kotlin
 val bank = Bank("tinkoff")
 bank.newObserver(Logger())
 val client1 = bank.regClient(ClientInfo(
