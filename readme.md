@@ -217,6 +217,9 @@ val bank = Bank("tinkoff")
     bank.delClient(client2)
 ```
 
+[:arrow_up:Shedule](https://github.com/vSEK1RO/MultiThreading/tree/main#schedule)
+---
+
 ---
 
 # funny_cat
