@@ -221,4 +221,5 @@ val bank = Bank("tinkoff")
 ---
 
 #funny_cat
+
 <img src="https://i.imgur.com/auufGb0.jpeg"></img>
