@@ -225,3 +225,6 @@ val bank = Bank("tinkoff")
 # funny_cat
 
 <img src="https://i.imgur.com/auufGb0.jpeg"></img>
+
+[:arrow_up:Shedule](https://github.com/vSEK1RO/MultiThreading/tree/main#schedule)
+---
