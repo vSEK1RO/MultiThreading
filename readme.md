@@ -14,7 +14,7 @@ git clone https://github.com/vSEK1RO/MultiThreading
 
 ## Schedule
 
-* [Example code](https://github.com/vSEK1RO/MultiThreading/tree/main#Example_code)
+* [ExampleCode](https://github.com/vSEK1RO/MultiThreading/tree/main#example_code)
 * [Bank.kt:](https://github.com/vSEK1RO/MultiThreading/tree/main#Bank) working with the user, creating cashiers
 * [Client.kt:](https://github.com/vSEK1RO/MultiThreading/tree/main#Client) contains information about the client and his bills
 * [ClientInfo.kt:](https://github.com/vSEK1RO/MultiThreading/tree/main#ClientInfo) contains registration information
@@ -163,7 +163,7 @@ You can study the list of other functions available for Client in the file [`Cur
 
 ---
 
-## [Example code](https://github.com/vSEK1RO/MultiThreading/blob/main/src/main/kotlin/Main.kt)
+## [example_code](https://github.com/vSEK1RO/MultiThreading/blob/main/src/main/kotlin/Main.kt)
 
 ```kotlin
 val bank = Bank("tinkoff")
