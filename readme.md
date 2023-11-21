@@ -195,8 +195,7 @@ val bank = Bank("tinkoff")
     cashier1?.sendOperation(WithdrawBill(Currency.USD,727.0))
 
     //Курс валют реальный, парсится с openexchangerates.org
-    cashier1?.sendOperation(Transaction("87279694200",Currency.
-    USD, 1.0))
+    cashier1?.sendOperation(Transaction("87279694200",Currency.USD, 1.0))
 
     //Проверка на наличие открытого счета у получателя
     cashier1?.sendOperation(Transaction("87279694200",Currency.QAR, 1.0))
